@@ -1,0 +1,44 @@
+_repo: The-Works-of-Aphra-Behn-Volume-I_21339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Behn, Aphra
+    aliases:
+    - Behn, Ayfara
+    - Behn, Aphra Amis
+    - Johnson, Aphra
+    - Bhen, A. (Aphra)
+    - Behn, Anne
+    - Behn, Afra
+    - Behn, Aphara
+    birthdate: 1640
+    deathdate: 1689
+    gutenberg_agent_id: '2728'
+    url: http://www.gutenberg.org/2009/agents/2728
+    wikipedia: http://en.wikipedia.org/wiki/Aphra_Behn
+  editor:
+    agent_name: Summers, Montague
+    alias: Summers, Alphonsus Joseph Mary Augustus Montague
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '9866'
+    url: http://www.gutenberg.org/2009/agents/9866
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+tableOfContents: The rover; or, The banish'd cavaliers -- The Dutch lover -- The Round-heads;
+  or, The good old cause.
+title: The Works of Aphra Behn, Volume I
+url: http://www.gutenberg.org/ebooks/21339
